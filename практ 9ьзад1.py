@@ -51,6 +51,6 @@ def main_menu():
         else:
             print("Invalid choice. Please try again.")
 
-# Основная программа
+
 notebook = {}
 main_menu()
